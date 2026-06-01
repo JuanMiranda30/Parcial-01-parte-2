@@ -1,4 +1,4 @@
-Par-Impar – Mayor-Número
+#Par-Impar – Mayor-Número
 # Estudiante 1: Juan Miranda
 
 def par_impar(numero):
