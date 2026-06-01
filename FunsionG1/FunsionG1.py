@@ -8,3 +8,14 @@ def par_impar(numero):
         return "El número es IMPAR"
 
 print("Estudiante 1:", par_impar(8))
+
+
+# Estudiante 2: Melany Rodriguez
+
+def mayor_numero(num1, num2):
+    if num1 > num2:
+        return num1
+    else:
+        return num2
+
+print("Estudiante 2:", mayor_numero(15, 20))
